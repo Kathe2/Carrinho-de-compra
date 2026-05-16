@@ -41,9 +41,8 @@ shopping-cart/
 
 ├── style.css
 
-├── script.js
+├── js/
 
-├── assets/
 
 # 📸 Preview
 
